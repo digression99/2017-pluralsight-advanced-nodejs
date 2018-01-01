@@ -2,51 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8452ddbe-7fa2-44d0-9f7c-762915fc75a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171228/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171228/dns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171228/net.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171228/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171228/udp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171229/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171229/http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171229/https.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171229/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171229/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/create-big-file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/debugging.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/duplex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/file2-task2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/files/blank" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/os.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/read-big-file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/readable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/seed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/task3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/unzip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20171231/zip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/child.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/cluster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/compute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/downtime-cluster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/downtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/find-wc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/load-balancing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/parent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/spawn-pipe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/spawn-shell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/20180101/spawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/addon_src/binding.gyp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/addon_src/hello.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/printStars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -133,8 +89,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="57">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -227,6 +183,7 @@
         <option value="$PROJECT_DIR$/mycode/20180101/load-balancing.js" />
         <option value="$PROJECT_DIR$/mycode/20180101/downtime.js" />
         <option value="$PROJECT_DIR$/mycode/20180101/downtime-cluster.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -374,12 +331,12 @@
       <workItem from="1514429332978" duration="5211000" />
       <workItem from="1514697169571" duration="9133000" />
       <workItem from="1514762505430" duration="5683000" />
-      <workItem from="1514781348818" duration="150000" />
+      <workItem from="1514781348818" duration="224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36289000" />
+    <option name="totallyTimeSpent" value="36363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -391,7 +348,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38352942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.69764704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.69764704" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -770,8 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="57">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>
