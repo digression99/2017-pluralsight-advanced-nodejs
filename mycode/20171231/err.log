@@ -1,0 +1,55 @@
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
+Error: whoops
+    at Timeout.setInterval [as _onTimeout] (/Users/kimilsik/WebstormProjects/advanced-nodejs/mycode/20171231/console.js:10:20)
+    at ontimeout (timers.js:466:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5)
